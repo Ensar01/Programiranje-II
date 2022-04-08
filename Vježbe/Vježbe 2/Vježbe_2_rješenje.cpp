@@ -330,13 +330,8 @@ public:
     }
     void SetDatumRodjenja(Datum datum) //settere ne mozemo pozivati nad nultom adresom nego samo nad validnom 
     {
-        if (_datumRodjenja == nullptr)
-        {
-            _datumRodjenja = new Datum;
-        }
-        _datumRodjenja->SetDan(datum.GetDan());
-        _datumRodjenja->SetMjesec(datum.GetMjesec());
-        _datumRodjenja->SetGodina(datum.GetGodina());
+                delete _datumRodjenja;
+        _datumRodjenja = new Datum(datum.GetDan(), datum.GetMjesec(), datum.GetGodina());
 
     }
     void SetSpol(bool spol)
