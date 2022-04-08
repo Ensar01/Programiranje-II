@@ -16,7 +16,7 @@ char* AlocirajIKopiraj(const char* tekst)
 
     return novi;
 }
-class Datum
+class Datum //clanovi klase su defaultno privatni
 {
 private:
     int _dan;
