@@ -2,5 +2,5 @@
 --------------
 
  ## ***Vježbe 1***
-## [**Postavka**](Vježbe 1 postavka.pdf)
+## [Postavka 01](Vježbe 1/Vježbe 1 postavka.pdf)
  
