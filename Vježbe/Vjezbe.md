@@ -18,3 +18,9 @@
  
 ### [***Rješenje 3***](https://github.com/Ensar01/Programiranje-II/blob/11f3d6795abe3dfadb9089a15c5431877c345ba4/Vje%C5%BEbe/Vje%C5%BEbe%203/Vje%C5%BEbe%203%20rje%C5%A1enje.cpp)
 --------------
+## ***Vježbe 4***
+
+### [***Postavka 4***](https://github.com/Ensar01/Programiranje-II/blob/main/Vje%C5%BEbe/Vje%C5%BEbe%204/Vje%C5%BEbe%204%20postavka.pdf)
+ 
+### [***Rješenje 4***](https://github.com/Ensar01/Programiranje-II/blob/main/Vje%C5%BEbe/Vje%C5%BEbe%204/Vje%C5%BEbe%204%20rje%C5%A1enje.cpp)
+--------------
