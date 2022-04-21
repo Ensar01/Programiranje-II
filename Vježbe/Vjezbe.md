@@ -24,3 +24,10 @@
  
 ### [***Rješenje 4***](https://github.com/Ensar01/Programiranje-II/blob/main/Vje%C5%BEbe/Vje%C5%BEbe%204/Vje%C5%BEbe%204%20rje%C5%A1enje.cpp)
 --------------
+## ***Vježbe 5***
+
+### [***Postavka 5***](https://github.com/Ensar01/Programiranje-II/blob/638444a5530c616abfd371c49af91236a6756635/Vje%C5%BEbe/Vje%C5%BEbe%205/Vje%C5%BEbe%205%20postavka.pdf)
+ 
+### [***Rješenje 5***](https://github.com/Ensar01/Programiranje-II/blob/638444a5530c616abfd371c49af91236a6756635/Vje%C5%BEbe/Vje%C5%BEbe%205/Vje%C5%BEbe%205%20rje%C5%A1enje.cpp)
+--------------
+
